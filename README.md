@@ -35,7 +35,7 @@ Rest api to manage personal notes in a multi-user environment.
 Swagger ui url = /swagger-ui.html
 Using this interface, all the api end points can be checked. 
 
- 
+ ![image info](./swaggle.png)
 
 
 #### External Tools & Services
