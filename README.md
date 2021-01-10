@@ -69,7 +69,9 @@ There are several ways to run a Spring Boot application on your local machine.
 
 Then automatically spring data jpa will create the database called "notesmanagement" having user table, note table, and note_archive table
 
- 
+
+* In the application properties file mysql username and password should be replaced with your username and password 
+
 
 * User table (User table should be filled manually for testing purpose)
 
